@@ -25,6 +25,7 @@ In this project I make data pipeline from crunchyroll websites scraped data, ETL
 ## Micro Projects
 - ### Random Analysis
     - Simple Analysis of Cardiovascular Diseases Risk Prediction Dataset that present on kaggle [notebook](https://www.kaggle.com/code/bitguber/basic-analysis-brfss-eda)
+    - Digimon deep investigation for few thought question, get notebook [here](https://www.kaggle.com/code/bitguber/don-t-say-digimon-it-hurt-s)
 
  
 ## Core Competencies
