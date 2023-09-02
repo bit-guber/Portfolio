@@ -1,0 +1,11 @@
+{
+    "seed":11,
+    "n_splits":5,
+    "path":"./",
+    "early_stoppping_params":{
+        "metric":"logloss",
+        "nrounds":100   },
+
+    "prediction_file_path":"test.csv"
+    
+}
