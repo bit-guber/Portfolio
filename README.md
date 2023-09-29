@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my skills. It is updated on the regular basis.
 
 - **Email**: [mgrguber@gmail.com](mgrguber@gmail.com)
-- **LinkedIn**: [linkedin/guber-mani](https://www.linkedin.com/in/bit-guber)
+- **LinkedIn**: [linkedin/bit-guber](https://www.linkedin.com/in/bit-guber)
 
 
 ## Projects
