@@ -6,15 +6,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Projects
-<img align="left" width="250" height="150" src="Loan Default Prediction/images/Hackathon_3.0.png"> **[  Loan Default Prediction ]( Loan%20Default%20Prediction/train.py )**
 
-In this project I make inference prediction of customer default from previous transaction history that help finance industry making better decision making in customer credit score. 
-
-<br/>
-<br/>
-<br/>
-
-<img align="left" width="250" height="150" src="Crunchyroll Web Scraping/images/output.png"> **[  Crunchyroll Web Scraping and Basic Analysis ]( Crunchyroll%20Web%20Scraping/Basic_Analysis.ipynb )**
+<img align="left" width="250" height="150" src="Crunchyroll Web Scraping/images/output.png"> **[Crunchyroll Web Scraping and Basic Analysis ]( Crunchyroll%20Web%20Scraping/Basic_Analysis.ipynb )**
 
 In this project I make data pipeline from crunchyroll websites scraped data, ETL process scripts and gather few insights of crunchyroll anime community
 
