@@ -1,0 +1,3 @@
+[submodule "Summary Evaluation Model"]
+	path = Summary Evaluation Model
+	url = https://github.com/bit-guber/CESS-kaggle.git
