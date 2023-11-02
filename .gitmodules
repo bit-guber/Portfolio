@@ -2,3 +2,6 @@
 	recurse = true
 	path = Summary Evaluation Model
 	url = https://github.com/bit-guber/CESS-kaggle.git
+[submodule "Movie-Recommender-demo"]
+	path = Movie-Recommender-demo
+	url = https://github.com/bit-guber/Movie-Recommender-demo.git
