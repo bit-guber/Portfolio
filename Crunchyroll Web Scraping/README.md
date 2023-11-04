@@ -1,7 +1,7 @@
 # Crunchyroll ( Anime Streaming Platform ) Meta-Data Data Pipeline 
 Before You going through my Project, Please visit Crunchyroll [here](https://www.crunchyroll.com/) and learn about it.<br>
 
-You can get Extracted and transformed dataset on kaggle [here](  )
+You can get Extracted and transformed dataset on kaggle [here]( https://www.kaggle.com/datasets/bitguber/crunchyroll-meta-data  )
 
 ## 
 ![](images/ETL.png)
